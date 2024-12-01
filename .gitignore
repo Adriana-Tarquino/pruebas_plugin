@@ -6,4 +6,3 @@ dist
 .DS_Store
 report.json
 ./.husky/_
-tdd_log.json

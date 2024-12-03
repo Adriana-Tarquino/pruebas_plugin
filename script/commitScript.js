@@ -8,6 +8,8 @@ const getLatestCommitId = () => {
     return latestCommit;
 };
 
+//pruebas5555555
+
 const updateJsonFile = (commitId) => {
     const __filename = fileURLToPath(import.meta.url);
     const __dirname = path.dirname(__filename);
